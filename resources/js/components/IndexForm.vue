@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-<h2>Laravel & Vue.js submit form with <strong>Strong</strong> input field validation</h2> 
+<h2>Laravel & Vue submit form with <strong>Strong</strong> input field validation</h2> 
 <form>
   <div class="form-row">
     <div class="col-md-4">
