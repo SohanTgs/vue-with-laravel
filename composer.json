@@ -45,6 +45,13 @@
             "Tests\\": "tests/"
         }
     },
+    "extra": {
+        "laravel": {
+            "dont-discover": [
+                "barryvdh/laravel-ide-helper"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
